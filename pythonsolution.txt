@@ -2,10 +2,7 @@ thirupugal
 bhava
 vanathe
 dharani
-<<<<<<< HEAD
 kalai 
 krithi
-=======
 cibi
 saparnaa
->>>>>>> 37c34474e2fb93347286cb1ff3b80372a218e47a
